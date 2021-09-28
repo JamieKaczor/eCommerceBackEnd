@@ -1,6 +1,15 @@
 # eCommerceBackEnd
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Description
+## Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technology Used](#technology-used)
+- [Screenshot and Demo Link](#screenshot-and-demo-link)
+- [Questions](#questions)
+
+## Overview
 Build the back end for an e-commerce site by modifying starter code by configuring a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ## Installation
@@ -9,6 +18,12 @@ npm i
 
 ## Usage
 Run the following through inegrated terminal: mysql -u root -p, enter password when prompted, source db/schema.sql, quit, npm run seed, npm start or node server.js
+
+## Technology Used
+- Express.js
+- Sequelize
+- MySQL
+- RESTful API
 
 ## Screenshot and Demo Link
 ![ecommerce](/images/ecommercess.png)
